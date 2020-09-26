@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adib234" alt="adib234" /> </p>
 
-- 🔭 I’m currently working on **trying to scrape all my LeetCode submissions to Github :)**
+- 🔭 I’m currently working on **a social network website for animes!**
 
-- 🌱 I’m currently learning **web scraping, C++, Docker, ROS**
+- 🌱 I’m currently learning **VueJS, NodeJS**
 
 - 💬 Ask me about **React, Python**
 
