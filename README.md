@@ -3,19 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adib234" alt="adib234" /> </p>
 
-- 🔭 I’m currently working on **a social network website for animes!**
+- 🔭 I’m currently working on **a cool (hopefully) image repository**
 
-- 🌱 I’m currently learning **VueJS, NodeJS**
+- 🌱 I’m currently learning how to **build a full stack web application**
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **Javascript, Python**
 
 - 📫 Reach out to me at **adibadib42@hotmail.com**
 
 - ⚡ Fun fact **I ate the spiciest chicken wings in Toronto!**
 
+- 2021 goals: **get better at Leetcode and learn more about backend development**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adib234&show_icons=true&theme=radical" alt="adib234" /></p>
-
-<p align="center">
-<a href="https://linkedin.com/in/akmadib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akmadib" height="30" width="30" /></a>
-</p>
+- Goals for this term: **build a 12 factor web app**
