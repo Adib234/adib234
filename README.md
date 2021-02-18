@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adib234" alt="adib234" /> </p>
 
-- 🔭 I’m currently working on **a cool (hopefully) image repository**
+- 🔭 I’m currently working **building a website and tools for the largest undergraduate technology conference!**
 
 - 🌱 I’m currently learning how to **build a full stack web application**
 
-- 💬 Ask me about **Javascript, Python**
+- 💬 Ask me about **Javascript, Python, Vue.js**
 
 - 📫 Reach out to me at **adibadib42@hotmail.com**
 
